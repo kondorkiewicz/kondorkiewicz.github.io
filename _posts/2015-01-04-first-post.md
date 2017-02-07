@@ -1,13 +1,10 @@
 ---
 layout: post
-title: First post!
+title: Macierzyństwo + wspinanie + praca = ?
+subtitle: Moja odpowiedź jest jednoznaczna - zmęczenie!
 image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
 ---
-
-Macierzyństwo + wspinanie + praca = ?
-
-Moja odpowiedź jest jednoznaczna - zmęczenie! To uczucie dominuje w życiu matki, która stara się łączyć opiekę nad dziećmi i nie rezygnować ze swojego hobby, a w pełnym wymiarze chodzi jeszcze do pracy.
+To uczucie dominuje w życiu matki, która stara się łączyć opiekę nad dziećmi i nie rezygnować ze swojego hobby, a w pełnym wymiarze chodzi jeszcze do pracy.
 
 Pierwszy miesiąc prób łączenia wszystkich życiowych ról to dla mnie nieustająca walka. Głównie z moją psychiką perfekcjonistki, która nie chciała odpuścić niczego. Wrzucanie na luz też do końca nie pomagało, bo pojawiała się tęsknota za wspinaniem (tą aktywność było odpuścić najłatwiej i najrozsądniej). 
 
