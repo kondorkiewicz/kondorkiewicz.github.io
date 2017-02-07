@@ -24,7 +24,7 @@ description: Wspinanie i dużo, dużo więcej!
 # List of links in the navigation bar
 navbar-links:
   O Nas: "oNas"
-  Do poczytania: "doPoczytania"
+  #Do poczytania: "doPoczytania"
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
